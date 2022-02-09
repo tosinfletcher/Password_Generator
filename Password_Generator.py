@@ -1,6 +1,6 @@
 #       Program:                Password_Generator.py
 #       Date:                   20/April/2020
-#       Author:                 Oluwatosin Fletcher (Student #[0656640])
+#       Author:                 Oluwatosin Fletcher
 #       Description:            This Program randomly generates a strong password
 
 
